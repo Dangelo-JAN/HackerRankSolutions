@@ -1,5 +1,4 @@
 function plusMinus(arr) {
-    // Write your code here
     let p = 0, n = 0, z = 0;
     let arrLength = arr.length;
     
